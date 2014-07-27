@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>mysnake.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="manage" Collapsed="true">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAACAABAAAAgIUAQAAAAAAAAABAAAAAAAAEQA=</HashCode>
+      <FileName>manage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBitmapEx" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>fgSFzZGJNTQXn+bKPy+BApDUWBECrsADJFDFUk7CsNU=</HashCode>
+      <FileName>BitmapEx.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="flash" Collapsed="true">
+    <Position X="2.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAABAAAAAAAAAAAAAAEAgAAAAAAAA=</HashCode>
+      <FileName>flash.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMysnakeApp" Collapsed="true">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAQAAAABAAAAAAA=</HashCode>
+      <FileName>mysnake.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMysnakeDoc" Collapsed="true">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACABAAAAAAAAAACAAAgAAAACAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>mysnakeDoc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMysnakeView" Collapsed="true">
+    <Position X="4.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAgAAAAAAAEAAACIGKBogAAQgAIAAQgBAIgAAAAAAAA=</HashCode>
+      <FileName>mysnakeView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="net" Collapsed="true">
+    <Position X="4.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAQAEAEAAAAAAIABAgAAAAAAQGAABAUAAIQAAQAAI=</HashCode>
+      <FileName>net.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRobt" Collapsed="true">
+    <Position X="6.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAIAAAAAAAABAAAAAIQAAAAAAEAAQAAAAAAIAAAAAA=</HashCode>
+      <FileName>Robt.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CShockwaveflash1" Collapsed="true">
+    <Position X="8" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>jxqCiQQBE4AgNwGAVVEwuASHENQiSmLgow0ASEC7yjs=</HashCode>
+      <FileName>shockwaveflash1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Snake" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAwACgAAAAQAAEAIKAAAIAYAMAAIIEAABAQBAAAA=</HashCode>
+      <FileName>snake.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cell" Collapsed="true">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAASAAgAAABCAAINQAAAAACAEAAIAgABgAAAAgAA=</HashCode>
+      <FileName>Unit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMainFrame" Collapsed="true">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAiAAAgAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainFrm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetSnake" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAQBAAAAAAA=</HashCode>
+      <FileName>NetSnake.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Typedef Name="fixed" Collapsed="true">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BitmapEx.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
