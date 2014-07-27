@@ -12,6 +12,6 @@ Rhythm Snake
 
 ###About us:
 * Manager:Cynthia
-* Code: Koki Erow
+* Code: Koki and Erow
 * Art Design:Cynthia
 * Documents:Cynthia
